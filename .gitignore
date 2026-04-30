@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+sim_viz
+Untitled
+*.dSYM/
+.clangd
+build_err.txt
+imgui.ini
+dipole.png
