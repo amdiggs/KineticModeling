@@ -7,7 +7,10 @@ All the mobile atoms start in the same deep minimum and are then allowed to migr
 ## PN Junction
 Finite Element Method
 This example simulates the diffusion of electrons and holes in a 2D PN junction. This was a side project and it was used for some experimental techniques where intermidiate states were saved to textures in an attempt to utilize some of the more unique features of gpu memory.
-This example requires access to the GLFW > 3.3, OpenCL 1.2, and OpenGL > 3.3.
+Dependencies
+    -GLFW > 3.3
+    -OpenCL 1.2
+    -OpenGL > 3.3
 
 ## Ising
 Markov Cahin Monte Carlo
@@ -15,5 +18,6 @@ This is a simple python script that computes the magnetic ordering of an Ising s
 
 <p align="center">
     <img src="https://github.com/amdiggs/KineticModeling/assets/ising_0.jpg"/>
+</p>
 
 
