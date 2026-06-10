@@ -4,10 +4,11 @@ This repo contains a few sample projects that demonstrate some of the modeling u
 **Stochastic Solution for coupled differential equations**
 
 $$
-\begin{align}
+\begin{aligned}
 \frac{1}{2}
-\end{align}
+\end{aligned}
 $$
+
 In this example the chemical reaction network is used to simulate a 1D many atom random walk.
 All the mobile atoms start in the same deep minimum and are then allowed to migrate away facing a series of shallow and deep minimum with correspondig low and high activation barriers.
 ## PN Junction
