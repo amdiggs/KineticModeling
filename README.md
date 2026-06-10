@@ -17,7 +17,7 @@ Markov Cahin Monte Carlo
 This is a simple python script that computes the magnetic ordering of an Ising spin lattice with ferromagnetic coupling.
 
 <p align="center">
-    <img src="https://github.com/amdiggs/KineticModeling/assets/ising_0.jpg"/>
+    <img src="https://github.com/amdiggs/KineticModeling/assets/ising_0.png"/>
 </p>
 
 
