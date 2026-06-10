@@ -13,7 +13,8 @@ This example simulates the diffusion of electrons and holes in a 2D PN junction.
     - OpenGL > 3.3
 
 ## Ising
-Markov Cahin Monte Carlo
+**Markov Cahin Monte Carlo**
+
 This is a simple python script that computes the magnetic ordering of an Ising spin lattice with ferromagnetic coupling.
 
 <p align="center">
